@@ -685,3 +685,92 @@
     line-height: 160%;
     color: #FFFFFF;
 }
+.teacher-section {
+    padding: 50px 0;
+    background: #121212;
+}
+.teccher-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.teccher-title img {
+    display: block;
+    width: 100%;
+    max-width: 127px;
+    margin-right: 20px;
+}
+.teccher-title h2 {
+    margin: 0;
+    padding: 0 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+.teacher-content {
+    display: flex;
+    justify-content: center;
+}
+.teacher-box {
+    width: calc(100%/3);
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+.teacher-box img {
+    display: block;
+    width: 100%;
+    max-width: 190px;
+    margin: 0 auto;
+}
+.teacher-box h2 {
+    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.teacher-box p {
+    margin: 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.teacher-box button {
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 45px;
+    background: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.article-section {
+    padding: 50px 0;
+    background: #121212;
+}
